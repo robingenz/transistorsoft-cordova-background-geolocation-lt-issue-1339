@@ -1,0 +1,7 @@
+{
+  "name": "cordova-background-geolocation-demo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
